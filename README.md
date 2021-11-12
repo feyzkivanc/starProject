@@ -1,0 +1,2 @@
+# starProject
+ diamond from stars
